@@ -1,5 +1,5 @@
 # About Me:
-computer science student at Amirkabir University of Technology
+Computer Science student at Amirkabir University of Technology
 
 
 ## 🌐 Socials:
