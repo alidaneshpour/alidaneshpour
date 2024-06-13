@@ -5,6 +5,7 @@ Computer Science graduate at Amirkabir University of Technology
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ali-daneshpour-97a1a8268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/alidaneshpour) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23002E6B?style=flat&logo=Kaggle&logoColor=white&labelColor=004DFF)](https://www.kaggle.com/alidaneshpour)
+<a href="https://kaggle.com/alidaneshpour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alidaneshpour" height="30" width="40" /></a>
 
 
 
