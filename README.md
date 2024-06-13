@@ -4,7 +4,8 @@ Computer Science student at Amirkabir University of Technology
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ali-daneshpour-97a1a8268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/alidaneshpour) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23010203.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/alidaneshpour)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230202E0.svg?logo=kaggle&logoColor=blue)](https://www.kaggle.com/alidaneshpour)
+
 
 
 # 💻 Tech Stack:
