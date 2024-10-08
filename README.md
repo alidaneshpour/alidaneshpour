@@ -1,5 +1,5 @@
 # About Me:
-Computer Science graduate at Amirkabir University of Technology
+Ph.D. Student in Computer Science (Artificial Intelligence) at Amirkabir University of Technology
 
 
 ## 🌐 Socials:
